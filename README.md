@@ -3,6 +3,8 @@
 
 EquiBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
+![Interface](https://github.com/Siddhantevre11/Equity_Research_analysis_using_LLM/assets/114145391/740510c3-2a9a-446d-a3fd-4b811351b3b5)
+
 ![](rockybot.jpg)
 
 ## Features
